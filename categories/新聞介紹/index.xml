@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>新聞介紹 on Step to LatAm</title>
-    <link>https://cwy12258.github.io/categories/%E6%96%B0%E8%81%9E%E4%BB%8B%E7%B4%B9/</link>
+    <link>http://localhost:65477/categories/%E6%96%B0%E8%81%9E%E4%BB%8B%E7%B4%B9/</link>
     <description>Recent content in 新聞介紹 on Step to LatAm</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 31 May 2024 15:48:47 +0800</lastBuildDate>
-    <atom:link href="https://cwy12258.github.io/categories/%E6%96%B0%E8%81%9E%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65477/categories/%E6%96%B0%E8%81%9E%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>被謀殺的候選人 Asesinato de candidatos en México</title>
-      <link>https://cwy12258.github.io/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</link>
+      <link>http://localhost:65477/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</link>
       <pubDate>Fri, 31 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</guid>
+      <guid>http://localhost:65477/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</guid>
       <description>2024年選舉系列文章&#xA;連結1：2024年墨西哥聯邦選舉 連結2：墨西哥總統候選人介紹(1) Claudia Sheinbaum&#xA;連結3：墨西哥總統候選人介紹(2) Xóchitl Gálvez&#xA;連結4：墨西哥總統候選人介紹（3) Jorge Álvarez Máynez</description>
     </item>
     <item>
       <title>2024年墨西哥總統選舉第三次辯論 5/19</title>
-      <link>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</link>
+      <link>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</link>
       <pubDate>Mon, 20 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</guid>
+      <guid>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</guid>
       <description>Buenos días 各政黨候選人在墨西哥時間5/19晚上八點，參加第三次總統辯論，闡述關心議題及政策說明。&#xA;聯邦選舉預計於2024/6/2 下週日舉行。&#xA;重點摘要： Claudia Sheinbaum&#xA;繼續支持現在總統AMLO的政策，重點在於國有企業在能源政策中的主導地位。&#xA;強調環境保護，推動可再生能源發展。</description>
     </item>
     <item>
       <title>2024年墨西哥聯邦選舉 Elecciones federales de México de 2024</title>
-      <link>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</link>
+      <link>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</link>
       <pubDate>Tue, 07 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</guid>
+      <guid>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</guid>
       <description>Buenos días 六月就要進入墨西哥六年一度的聯邦選舉囉～這次將會產生歷史第一任女性總統。&#xA;連結1：墨西哥總統候選人介紹(1) Claudia Sheinbaum&#xA;連結2：墨西哥總統候選人介紹(2) Xóchitl Gálvez&#xA;連結3：墨西哥總統候選人介紹（3) Jorge Álvarez Máynez</description>
     </item>
   </channel>

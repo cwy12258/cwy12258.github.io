@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>薪資 on Step to LatAm</title>
-    <link>https://cwy12258.github.io/tags/%E8%96%AA%E8%B3%87/</link>
+    <link>http://localhost:65477/tags/%E8%96%AA%E8%B3%87/</link>
     <description>Recent content in 薪資 on Step to LatAm</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 03 Jun 2024 10:48:47 +0800</lastBuildDate>
-    <atom:link href="https://cwy12258.github.io/tags/%E8%96%AA%E8%B3%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65477/tags/%E8%96%AA%E8%B3%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> 墨西哥 最低工資變化 Salario mínimo en México </title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</link>
       <pubDate>Mon, 03 Jun 2024 10:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</guid>
       <description>Buenos días 連結1：墨西哥 製造業薪水結構&#xA;▶最低工資變化 從2024/1/1 起生效的加薪，使實際最低工資比現任總統AMLO任期開始時的最低工資翻了一倍。&#xA;這是AMLO政府自2018年12月執政之初就追求的目標，當時基本工資僅僅每天日薪 88 Peso。</description>
     </item>
     <item>
       <title> 墨西哥 製造業薪水結構 Estructura salarial del sector manufacturero en México </title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</link>
       <pubDate>Mon, 27 May 2024 10:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</guid>
       <description>Buenos días 2024年初始，墨西哥的最低工資將迎來20%的增幅，這對製造業工人的工資結構和社會保障有重要影響。&#xA;介紹的主題如下： 最低基本工資&#xA;薪資組成&#xA;減項&#xA;特別類型&#xA;最低基本工資 salario mínimo 一般地區：每日最低工資將從207.</description>
     </item>
   </channel>

@@ -2,122 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>México on Step to LatAm</title>
-    <link>https://cwy12258.github.io/tags/m%C3%A9xico/</link>
+    <link>http://localhost:65477/tags/m%C3%A9xico/</link>
     <description>Recent content in México on Step to LatAm</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 07 Jun 2024 10:48:47 +0800</lastBuildDate>
-    <atom:link href="https://cwy12258.github.io/tags/m%C3%A9xico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 10:48:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:65477/tags/m%C3%A9xico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>墨西哥政黨介紹 Partido Político(3)：PRI （革命制度黨） </title>
+      <link>http://localhost:65477/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADticopri-%E9%9D%A9%E5%91%BD%E5%88%B6%E5%BA%A6%E9%BB%A8/</link>
+      <pubDate>Tue, 11 Jun 2024 10:48:47 +0800</pubDate>
+      <guid>http://localhost:65477/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADticopri-%E9%9D%A9%E5%91%BD%E5%88%B6%E5%BA%A6%E9%BB%A8/</guid>
+      <description>Buenos días&#xA;連結1：2024年 PRI-PAN-PRD 力量與心聯盟聯合提名總統候選人 Xóchitl Gálvez 加維斯&#xA;連結2：政黨介紹 Partido Político(1)：Morena （國家復興運動黨）</description>
+    </item>
     <item>
       <title>墨西哥政黨介紹 Partido Político(2)：PAN （國家行動黨） </title>
-      <link>https://cwy12258.github.io/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADticopan-%E5%9C%8B%E5%AE%B6%E8%A1%8C%E5%8B%95%E9%BB%A8/</link>
+      <link>http://localhost:65477/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADticopan-%E5%9C%8B%E5%AE%B6%E8%A1%8C%E5%8B%95%E9%BB%A8/</link>
       <pubDate>Fri, 07 Jun 2024 10:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADticopan-%E5%9C%8B%E5%AE%B6%E8%A1%8C%E5%8B%95%E9%BB%A8/</guid>
-      <description>Buenos días&#xA;連結1：2024年黨提名的總統候選人 Xóchitl Gálvez 加維斯&#xA;連結2：政黨介紹 Partido Político(1)：莫雷納 Morena</description>
+      <guid>http://localhost:65477/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADticopan-%E5%9C%8B%E5%AE%B6%E8%A1%8C%E5%8B%95%E9%BB%A8/</guid>
+      <description>Buenos días&#xA;連結1：2024年黨提名的總統候選人 Xóchitl Gálvez 加維斯&#xA;連結2：政黨介紹 Partido Político(1)：Morena （國家復興運動黨）</description>
     </item>
     <item>
       <title>墨西哥政黨介紹 Partido Político(1)：Morena （國家復興運動黨） </title>
-      <link>https://cwy12258.github.io/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADtico%E8%8E%AB%E9%9B%B7%E7%B4%8D-morena%E5%9C%8B%E5%AE%B6%E5%BE%A9%E8%88%88%E9%81%8B%E5%8B%95%E9%BB%A8/</link>
+      <link>http://localhost:65477/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADtico%E8%8E%AB%E9%9B%B7%E7%B4%8D-morena%E5%9C%8B%E5%AE%B6%E5%BE%A9%E8%88%88%E9%81%8B%E5%8B%95%E9%BB%A8/</link>
       <pubDate>Wed, 05 Jun 2024 10:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADtico%E8%8E%AB%E9%9B%B7%E7%B4%8D-morena%E5%9C%8B%E5%AE%B6%E5%BE%A9%E8%88%88%E9%81%8B%E5%8B%95%E9%BB%A8/</guid>
+      <guid>http://localhost:65477/blog/%E6%94%BF%E9%BB%A8%E4%BB%8B%E7%B4%B9-partido-pol%C3%ADtico%E8%8E%AB%E9%9B%B7%E7%B4%8D-morena%E5%9C%8B%E5%AE%B6%E5%BE%A9%E8%88%88%E9%81%8B%E5%8B%95%E9%BB%A8/</guid>
       <description>Buenos días&#xA;連結1：2024年黨提名的總統候選人 Claudia Sheinbaum 薛恩鮑姆&#xA;連結2：政黨介紹 Partido Político(2)：PAN （國家行動黨）</description>
     </item>
     <item>
       <title> 墨西哥 最低工資變化 Salario mínimo en México </title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</link>
       <pubDate>Mon, 03 Jun 2024 10:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E6%AF%8F%E5%B9%B4%E8%AA%BF%E8%96%AA%E5%B9%85%E5%BA%A6/</guid>
       <description>Buenos días 連結1：墨西哥 製造業薪水結構&#xA;▶最低工資變化 從2024/1/1 起生效的加薪，使實際最低工資比現任總統AMLO任期開始時的最低工資翻了一倍。&#xA;這是AMLO政府自2018年12月執政之初就追求的目標，當時基本工資僅僅每天日薪 88 Peso。</description>
     </item>
     <item>
       <title>被謀殺的候選人 Asesinato de candidatos en México</title>
-      <link>https://cwy12258.github.io/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</link>
+      <link>http://localhost:65477/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</link>
       <pubDate>Fri, 31 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</guid>
+      <guid>http://localhost:65477/blog/%E8%A2%AB%E8%AC%80%E6%AE%BA%E7%9A%84%E5%80%99%E9%81%B8%E4%BA%BA/</guid>
       <description>2024年選舉系列文章&#xA;連結1：2024年墨西哥聯邦選舉 連結2：墨西哥總統候選人介紹(1) Claudia Sheinbaum&#xA;連結3：墨西哥總統候選人介紹(2) Xóchitl Gálvez&#xA;連結4：墨西哥總統候選人介紹（3) Jorge Álvarez Máynez</description>
     </item>
     <item>
       <title> 匯率 Tipo de cambio </title>
-      <link>https://cwy12258.github.io/blog/%E5%8C%AF%E7%8E%87-tipo-de-cambio/</link>
+      <link>http://localhost:65477/blog/%E5%8C%AF%E7%8E%87-tipo-de-cambio/</link>
       <pubDate>Wed, 29 May 2024 09:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%8C%AF%E7%8E%87-tipo-de-cambio/</guid>
+      <guid>http://localhost:65477/blog/%E5%8C%AF%E7%8E%87-tipo-de-cambio/</guid>
       <description>Buenos días 墨西哥披索Peso，受惠於中美貿易及出口穩定增長，幣值最近來到升到歷史高點，1 MXN(Peso) 兌 1.92 TWD&#xA;匯率可以哪裡查詢？&#xA;外匯交易入口 墨西哥銀行 依照公告 24/05/27 兌換匯率：</description>
     </item>
     <item>
       <title> 墨西哥 製造業薪水結構 Estructura salarial del sector manufacturero en México </title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</link>
       <pubDate>Mon, 27 May 2024 10:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%96%AA%E6%B0%B4%E7%B5%90%E6%A7%8B/</guid>
       <description>Buenos días 2024年初始，墨西哥的最低工資將迎來20%的增幅，這對製造業工人的工資結構和社會保障有重要影響。&#xA;介紹的主題如下： 最低基本工資&#xA;薪資組成&#xA;減項&#xA;特別類型&#xA;最低基本工資 salario mínimo 一般地區：每日最低工資將從207.</description>
     </item>
     <item>
       <title>墨西哥總統候選人介紹（3) Jorge Álvarez Máynez 梅涅茲</title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B93/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B93/</link>
       <pubDate>Fri, 24 May 2024 10:00:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B93/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B93/</guid>
       <description>Buenos días&#xA;連結1：2024年墨西哥聯邦選舉&#xA;連結2：墨西哥總統候選人介紹（1) Claudia Sheinbaum&#xA;連結3：墨西哥總統候選人介紹（2) Xóchitl Gálvez&#xA;連結4：2024年墨西哥總統選舉第三次辯論 5/19</description>
     </item>
     <item>
       <title>墨西哥總統候選人介紹（2) Xóchitl Gálvez 加維斯</title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B92/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B92/</link>
       <pubDate>Fri, 24 May 2024 06:00:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B92/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B92/</guid>
       <description>Buenos días&#xA;連結1：2024年墨西哥聯邦選舉&#xA;連結2：墨西哥總統候選人介紹（1) Claudia Sheinbaum&#xA;連結3：墨西哥總統候選人介紹（3) Jorge Álvarez Máynez</description>
     </item>
     <item>
       <title> 亡靈節 Día de Muertos </title>
-      <link>https://cwy12258.github.io/blog/%E4%BA%A1%E9%9D%88%E7%AF%80-d%C3%ADa-de-muertos/</link>
+      <link>http://localhost:65477/blog/%E4%BA%A1%E9%9D%88%E7%AF%80-d%C3%ADa-de-muertos/</link>
       <pubDate>Thu, 23 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E4%BA%A1%E9%9D%88%E7%AF%80-d%C3%ADa-de-muertos/</guid>
+      <guid>http://localhost:65477/blog/%E4%BA%A1%E9%9D%88%E7%AF%80-d%C3%ADa-de-muertos/</guid>
       <description>Buenos días 介紹 墨西哥亡靈節（Día de Muertos）是墨西哥最具代表性和文化意義的傳統節日之一。這個節日結合了原住民文化和西班牙天主教的元素，以獨特的方式慶祝逝去的親人和朋友，並展示了墨西哥人對死亡的特有觀念。&#xA;節日的起源 亡靈節的起源可以追溯到前西班牙時期的原住民文化，特別是阿茲特克、馬雅和托爾特克等文明。這些文化都有自己的死亡崇拜儀式，認為死亡是生命的一部分，而非終結。隨著西班牙征服者的到來，天主教傳入墨西哥，亡靈節逐漸融合了基督教的萬聖節，形成了今天的形式。&#xA;節日的傳統 亡靈節通常在每年的11月1日和2日慶祝，分別紀念死去的兒童和成人。這個節日的主要活動包括：</description>
     </item>
     <item>
       <title> 迪亞哥·李維拉 Diego Rivera </title>
-      <link>https://cwy12258.github.io/blog/%E8%BF%AA%E4%BA%9E%E5%93%A5%E6%9D%8E%E7%B6%AD%E6%8B%89-diego-rivera/</link>
+      <link>http://localhost:65477/blog/%E8%BF%AA%E4%BA%9E%E5%93%A5%E6%9D%8E%E7%B6%AD%E6%8B%89-diego-rivera/</link>
       <pubDate>Wed, 22 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E8%BF%AA%E4%BA%9E%E5%93%A5%E6%9D%8E%E7%B6%AD%E6%8B%89-diego-rivera/</guid>
+      <guid>http://localhost:65477/blog/%E8%BF%AA%E4%BA%9E%E5%93%A5%E6%9D%8E%E7%B6%AD%E6%8B%89-diego-rivera/</guid>
       <description>Buenos días 接續昨天介紹的畫家 Frida Kahlo，今天來介紹她的丈夫，墨西哥最偉大的壁畫家&amp;ndash; 迪亞哥·李維拉 Diego Rivera。&#xA;回顧1：芙烈達·卡蘿 Frida Kahlo</description>
     </item>
     <item>
       <title> 芙烈達·卡蘿 Frida Kahlo </title>
-      <link>https://cwy12258.github.io/blog/%E8%8A%99%E7%83%88%E9%81%94%E5%8D%A1%E8%98%BF-frida-kahlo/</link>
+      <link>http://localhost:65477/blog/%E8%8A%99%E7%83%88%E9%81%94%E5%8D%A1%E8%98%BF-frida-kahlo/</link>
       <pubDate>Tue, 21 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E8%8A%99%E7%83%88%E9%81%94%E5%8D%A1%E8%98%BF-frida-kahlo/</guid>
+      <guid>http://localhost:65477/blog/%E8%8A%99%E7%83%88%E9%81%94%E5%8D%A1%E8%98%BF-frida-kahlo/</guid>
       <description>Buenos días 今天來介紹印在與丈夫被墨西哥500披索紙鈔上面，20世紀美洲最負盛名的畫家之一。 Frida Kahlo 芙烈達·卡蘿 。&#xA;連結：迪亞哥·李維拉 Diego Rivera</description>
     </item>
     <item>
       <title>2024年墨西哥總統選舉第三次辯論 5/19</title>
-      <link>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</link>
+      <link>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</link>
       <pubDate>Mon, 20 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</guid>
+      <guid>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%BE%AF%E8%AB%96/</guid>
       <description>Buenos días 各政黨候選人在墨西哥時間5/19晚上八點，參加第三次總統辯論，闡述關心議題及政策說明。&#xA;聯邦選舉預計於2024/6/2 下週日舉行。&#xA;重點摘要： Claudia Sheinbaum&#xA;繼續支持現在總統AMLO的政策，重點在於國有企業在能源政策中的主導地位。&#xA;強調環境保護，推動可再生能源發展。</description>
     </item>
     <item>
       <title>墨西哥總統候選人介紹（1) Claudia Sheinbaum 薛恩鮑姆</title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B91/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B91/</link>
       <pubDate>Tue, 14 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B91/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E4%BB%8B%E7%B4%B91/</guid>
       <description>Buenos días&#xA;連結1：2024年墨西哥聯邦選舉&#xA;連結2：墨西哥總統候選人介紹(2) Xóchitl Gálvez&#xA;連結3：墨西哥總統候選人介紹（3) Jorge Álvarez Máynez</description>
     </item>
     <item>
       <title>觀光介紹：Veracruz 維拉克魯茲州 </title>
-      <link>https://cwy12258.github.io/blog/%E8%A7%80%E5%85%89%E4%BB%8B%E7%B4%B9veracruz/</link>
+      <link>http://localhost:65477/blog/%E8%A7%80%E5%85%89%E4%BB%8B%E7%B4%B9veracruz/</link>
       <pubDate>Sun, 12 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E8%A7%80%E5%85%89%E4%BB%8B%E7%B4%B9veracruz/</guid>
+      <guid>http://localhost:65477/blog/%E8%A7%80%E5%85%89%E4%BB%8B%E7%B4%B9veracruz/</guid>
       <description>Buenos días 今天要介紹的州份是Veracruz 維拉克魯茲州。&#xA;維拉克魯茲州是墨西哥最富自然、文化和歷史的地區之一。&#xA;該州擁有迷人的海岸線景觀，並且基礎設施完善、現代化設施齊全，成為一大旅遊亮點。&#xA;此外，該地區也因其咖啡豆種植而聞名。&#xA;景點： 1. El Tajín 中文音譯埃爾塔欣金字塔，該城遺址中神廟、宮殿、足球場、金字塔等等建築物一應俱全。</description>
     </item>
     <item>
       <title>2024年墨西哥聯邦選舉 Elecciones federales de México de 2024</title>
-      <link>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</link>
+      <link>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</link>
       <pubDate>Tue, 07 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</guid>
+      <guid>http://localhost:65477/blog/2024%E5%B9%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</guid>
       <description>Buenos días 六月就要進入墨西哥六年一度的聯邦選舉囉～這次將會產生歷史第一任女性總統。&#xA;連結1：墨西哥總統候選人介紹(1) Claudia Sheinbaum&#xA;連結2：墨西哥總統候選人介紹(2) Xóchitl Gálvez&#xA;連結3：墨西哥總統候選人介紹（3) Jorge Álvarez Máynez</description>
     </item>
     <item>
       <title>墨西哥簡介 México </title>
-      <link>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B0%A1%E4%BB%8B/</link>
+      <link>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B0%A1%E4%BB%8B/</link>
       <pubDate>Wed, 01 May 2024 15:48:47 +0800</pubDate>
-      <guid>https://cwy12258.github.io/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B0%A1%E4%BB%8B/</guid>
+      <guid>http://localhost:65477/blog/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B0%A1%E4%BB%8B/</guid>
       <description>Buenos días 大家好 今天來介紹現在外資最夯的墨西哥～&#xA;首都 ：墨西哥城（Ciudad de México , 縮寫為：CDMX），全國分為32個州，</description>
     </item>
   </channel>

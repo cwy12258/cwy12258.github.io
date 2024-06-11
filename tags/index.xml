@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Step to LatAm</title>
-    <link>https://cwy12258.github.io/tags/</link>
+    <link>http://localhost:65477/tags/</link>
     <description>Recent content in Tags on Step to LatAm</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 07 Jun 2024 10:48:47 +0800</lastBuildDate>
-    <atom:link href="https://cwy12258.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 10:48:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:65477/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年聯邦選舉</title>
-      <link>https://cwy12258.github.io/tags/2024%E5%B9%B4%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</link>
+      <link>http://localhost:65477/tags/2024%E5%B9%B4%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/2024%E5%B9%B4%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</guid>
+      <guid>http://localhost:65477/tags/2024%E5%B9%B4%E8%81%AF%E9%82%A6%E9%81%B8%E8%88%89/</guid>
       <description></description>
     </item>
     <item>
       <title>México</title>
-      <link>https://cwy12258.github.io/tags/m%C3%A9xico/</link>
+      <link>http://localhost:65477/tags/m%C3%A9xico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/m%C3%A9xico/</guid>
+      <guid>http://localhost:65477/tags/m%C3%A9xico/</guid>
       <description></description>
     </item>
     <item>
       <title>薪資</title>
-      <link>https://cwy12258.github.io/tags/%E8%96%AA%E8%B3%87/</link>
+      <link>http://localhost:65477/tags/%E8%96%AA%E8%B3%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/%E8%96%AA%E8%B3%87/</guid>
+      <guid>http://localhost:65477/tags/%E8%96%AA%E8%B3%87/</guid>
       <description></description>
     </item>
     <item>
       <title>Bank</title>
-      <link>https://cwy12258.github.io/tags/bank/</link>
+      <link>http://localhost:65477/tags/bank/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/bank/</guid>
+      <guid>http://localhost:65477/tags/bank/</guid>
       <description></description>
     </item>
     <item>
       <title>節日</title>
-      <link>https://cwy12258.github.io/tags/%E7%AF%80%E6%97%A5/</link>
+      <link>http://localhost:65477/tags/%E7%AF%80%E6%97%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/%E7%AF%80%E6%97%A5/</guid>
+      <guid>http://localhost:65477/tags/%E7%AF%80%E6%97%A5/</guid>
       <description></description>
     </item>
     <item>
       <title>Painter</title>
-      <link>https://cwy12258.github.io/tags/painter/</link>
+      <link>http://localhost:65477/tags/painter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/painter/</guid>
+      <guid>http://localhost:65477/tags/painter/</guid>
       <description></description>
     </item>
     <item>
       <title>Milenio</title>
-      <link>https://cwy12258.github.io/tags/milenio/</link>
+      <link>http://localhost:65477/tags/milenio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/milenio/</guid>
+      <guid>http://localhost:65477/tags/milenio/</guid>
       <description></description>
     </item>
     <item>
       <title>Trip</title>
-      <link>https://cwy12258.github.io/tags/trip/</link>
+      <link>http://localhost:65477/tags/trip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwy12258.github.io/tags/trip/</guid>
+      <guid>http://localhost:65477/tags/trip/</guid>
       <description></description>
     </item>
   </channel>
